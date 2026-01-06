@@ -4,7 +4,12 @@ This repo contains the notebook + files from my training class.  It'll remain op
 
 Enjoy!
 
-If you liked this training, you might also like:
+Here's some more info about what I do:
+
+## Newsletters
+
+- Better developers, new, free articles about Python every week: https://BetterDevelopersWeekly.com/
+- "Bamboo Weekly," where I analyze data related to current events using Pandas: https://www.BambooWeekly.com/
 
 ## Social media
 
@@ -12,10 +17,6 @@ If you liked this training, you might also like:
 - LinkedIn: https://linkedin.com/in/reuven
 - Bluesky: https://bsky.app/profile/lernerpython.com
 
-## Newsletters
-
-- Better developers, new, free articles about Python every week: https://BetterDevelopersWeekly.com/
-- "Bamboo Weekly," where I analyze data related to current events using Pandas: https://www.BambooWeekly.com/
 
 ## Books
 - Python Workout, 200 Python exercises: https://PythonWorkout.com/
