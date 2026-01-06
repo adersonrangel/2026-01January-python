@@ -1,0 +1,19 @@
+[project]
+name = "oreilly-2026-01january-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "gitautopush>=0.4.1",
+    "jupyter>=1.1.1",
+    "jupyter-core>=5.9.1",
+    "loro>=1.10.3",
+    "marimo[recommended]>=0.18.4",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.0",
+    "pandas>=2.3.3",
+    "plotly>=6.5.0",
+    "pyarrow>=22.0.0",
+    "seaborn>=0.13.2",
+]
